@@ -17,6 +17,12 @@
 
 
 
+ [简历模板2.md](https://github.com/RobotWuYun/resume/blob/master/template/简历模板2.md) 
+
+这个模板来自于[[isuperqiang](https://github.com/isuperqiang)]大佬,在此感谢!
+
+
+
 例图:
 ![QQ截图20191119182203.jpg](https://i.loli.net/2019/11/19/fSjZs3kYhwN1LRV.jpg)
 ![QQ截图20191119182223.jpg](https://i.loli.net/2019/11/19/wP25QyaLcE7V1rW.jpg)
